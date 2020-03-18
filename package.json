@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Api testing application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdaamir8182/apitest.git"
+  },
+  "author": "Aamir Mahmood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohdaamir8182/apitest/issues"
+  },
+  "homepage": "https://github.com/mohdaamir8182/apitest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
